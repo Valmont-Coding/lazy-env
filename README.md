@@ -1,4 +1,4 @@
-# ![LazyEnv Logo](./assets/logo.png) LazyEnv
+# ![LazyEnv Logo](https://raw.githubusercontent.com/Valmont-Coding/lazy-env/main/assets/logo.png) LazyEnv
 
 ![Python Version](https://img.shields.io/badge/python->=3.8-blue)
 ![License](https://img.shields.io/github/license/Valmont-Coding/lazy-env)
